@@ -2,6 +2,12 @@
 
 A small JavaScript currency converter project.
 
+## Live demo
+
+You can view the published demo on GitHub Pages:
+
+https://devnikhil00.github.io/Currency-Converter-Project/
+
 ## Project structure
 
 - `index.html` - Main HTML page.
